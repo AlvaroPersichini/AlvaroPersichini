@@ -1,5 +1,5 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-2.jpg)
-#Alvaro Persichini
+# Alvaro Persichini
 I'm a mechanical engineer and currently a programming student from Argentina.
 
 ## Skills and Experience
