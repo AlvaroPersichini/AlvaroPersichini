@@ -1,3 +1,4 @@
+  ![Screenshot 2023-03-20 121821](https://github.com/user-attachments/assets/021bf484-7987-4445-921f-44731aa9e3ac)
 <head>
 <meta charset = "UTF-8"
 </head>
@@ -6,7 +7,7 @@
 <div align="center">
 <h1 align="center"> Hi there, thank you for visiting my personal profile
 <hr>
-  ![Screenshot 2023-03-20 121821](https://github.com/user-attachments/assets/021bf484-7987-4445-921f-44731aa9e3ac)
+
   <h3 align "left" > 
 <p align "left"> gggg
   
