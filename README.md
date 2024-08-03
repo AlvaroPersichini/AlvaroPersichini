@@ -1,25 +1,13 @@
-  ![Screenshot 2023-03-20 121821](https://github.com/user-attachments/assets/021bf484-7987-4445-921f-44731aa9e3ac)
-<head>
-<meta charset = "UTF-8"
-</head>
+<h1 align="center">Hi 👋, I'm Alvaro</h1>
+<h3 align="center">I'm a mechanical engineer, currently a programming student</h3>
 
-<body>
-<div align="center">
-<h1 align="center"> Hi there, thank you for visiting my personal profile
-<hr>
-
-  <h3 align "left" > 
-<p align "left"> gggg
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-  
-</body>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
-
-
-
-  
 
 
 
