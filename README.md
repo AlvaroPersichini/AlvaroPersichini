@@ -1,5 +1,27 @@
+<head>
+<meta charset = "UTF-8"
+</head>
+
+<body>
 <div align="center">
-<h1 align="center"> Hi there,
+<h1 align="center"> Hi there, thank you for visiting my personal profile
+<hr>
+  <h3 align "left" > 
+<p align "left"> gggg
+  
+</p>
+
+  
+</body>
+
+
+
+
+  
+
+
+
+
 
 <!--
 **AlvaroPersichini/AlvaroPersichini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
