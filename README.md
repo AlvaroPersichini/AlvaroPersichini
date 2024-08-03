@@ -1,6 +1,7 @@
+![Screenshot 2024-08-03 195632](https://github.com/user-attachments/assets/e4c4176c-7a36-4504-a784-9aa8077241b3)
 <h1 align="center">Hi there</h1>
 <h3 align="left">My name is Alvaro Persichini, I'm a mechanical engineer and currently a programming student</h3>
-![Screenshot 2023-03-20 121821](https://github.com/user-attachments/assets/021bf484-7987-4445-921f-44731aa9e3ac)
+
 
 <p align="left"> Please, take a look at all my public repositories
 </p>
