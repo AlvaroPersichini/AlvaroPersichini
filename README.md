@@ -1,4 +1,4 @@
-![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-2.jpg)
+![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-3.jpg)
 # Alvaro Persichini
 I'm a mechanical engineer and currently a programming student from Argentina.
 
