@@ -14,11 +14,37 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - HTML/CSS/JS
 
 ## Work Examples
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Video 1" width="45%">
+    </a>
+    <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ">
+        <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" alt="Video 2" width="45%">
+    </a>
+</div>
 
 <!--
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:40%;">
+      </a>
+    </div>
+
+   <div align="center">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:40%;">
+      </a>
+    </div>
+    
+
 <h1 align="center">Hi there</h1>
 <h3 align="left">My name is Alvaro Persichini, I'm a mechanical engineer and currently a programming student</h3>
 <p align="left"> Please, take a look at all my public repositories
@@ -29,7 +55,7 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 
 
 
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 <!--
