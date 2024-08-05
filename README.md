@@ -24,7 +24,6 @@ alt="Video 2" width="240" height="180" border="5"></a>
 
 
 <!--
-
 <div align="left">
       <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
      <img 
