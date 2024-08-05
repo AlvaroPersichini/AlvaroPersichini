@@ -8,7 +8,7 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - SolidWorks
 - Automotive Ind. Experience
 
-## Technoilogies as a Programmer
+## Technologies as a Programmer
 - .NET Framework
 - VB.NET
 - HTML/CSS/JS
