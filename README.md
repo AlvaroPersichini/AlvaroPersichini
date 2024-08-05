@@ -21,7 +21,7 @@ alt="Video 2" width="240" height="180" border="5"></a>
 <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank"><img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" 
 alt="Video 2" width="240" height="180" border="5"></a>
 
-
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <!--
 <div align="left">
