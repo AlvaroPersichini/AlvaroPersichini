@@ -3,7 +3,7 @@
 I'm a mechanical engineer and currently a programming student from Argentina.
 
 ## Skills and Experience
-A
+As a Programming student I 
 
 
 
