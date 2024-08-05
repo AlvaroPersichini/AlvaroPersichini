@@ -13,6 +13,8 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - VB.NET
 - HTML/CSS/JS
 
+target="_blank">Go</a>
+
 ## Work Examples
 <div style="display: flex; justify-content: center; gap: 40px;">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank>Go">
