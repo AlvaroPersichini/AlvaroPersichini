@@ -12,19 +12,16 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - .NET Framework
 - VB.NET
 - HTML/CSS/JS
-
+- 
 ## Work Examples
-<div style="display: flex; justify-content: center; gap: 40px;">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Video 1" width="30%">
-    </a>
-    <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank">
-        <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" alt="Video 2" width="30%">
-    </a>
-     <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank">
-        <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" alt="Video 2" width="30%">
-    </a>
-</div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
+alt="Video 1" width="240" height="180" border="10"></a>
+<a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank"><img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" 
+alt="Video 2" width="240" height="180" border="10"></a>
+<a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank"><img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" 
+alt="Video 2" width="240" height="180" border="10"></a>
+
+
 
 <!--
 
