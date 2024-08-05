@@ -1,12 +1,16 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-4.jpg)
-# Alvaro Persichini
-I'm a mechanical engineer and currently a programming student from Argentina.
+# About me:
+I'm a mechanical engineer and a programming student from Argentina.
+Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 
-## Skills and Experience
-As a Programming student I 
+## Technologies:
+New challenges to embrace my new carrer as a programmer.
 
 
 
+
+
+<!--
 <h1 align="center">Hi there</h1>
 <h3 align="left">My name is Alvaro Persichini, I'm a mechanical engineer and currently a programming student</h3>
 <p align="left"> Please, take a look at all my public repositories
