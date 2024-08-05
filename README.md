@@ -12,7 +12,7 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - .NET Framework
 - VB.NET
 - HTML/CSS/JS
-- 
+
 ## Work Examples
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="5"></a>
@@ -50,8 +50,6 @@ alt="Video 2" width="240" height="180" border="5"></a>
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
-
-
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
