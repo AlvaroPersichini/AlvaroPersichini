@@ -3,7 +3,7 @@
 I'm a mechanical engineer and a programming student from Argentina.  
 Currenlty I'm looking for new challenges to embrace my carrer as a full-time programmer.
 
-## Technologies as a Mechanical Engineer:
+## Technologies as a Mechanical Engineer
 - CATIA v5 (Automation with .NET)
 - SolidWorks
 - Automotive Ind. Experience
