@@ -13,8 +13,10 @@ Currenlty I'm looking for new challenges to embrace my carrer as a programmer.
 - VB.NET
 - HTML/CSS/JS
 
-
 ## Work Examples
+Check out some of my solutions I provided as a programmer in the mechanical engineer field.   
+You may find interting to see how I use the VB.NET and the CATIA Object herarchy.
+Not the tipical AirB&B application, hu?
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="5"></a>
 <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank"><img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" 
