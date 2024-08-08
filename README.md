@@ -15,7 +15,7 @@ Currenlty I'm looking for new challenges to embrace my carrer as a full-time pro
 
 ## Work Examples
 Check out some of my solutions I provided as a programmer in the mechanical engineer field.   
-You may find interting to see how I use the the .NET Franework, VB.NET and the CATIA Object herarchy.  
+You may find interting to see how I implemented the .NET Franework, VB.NET and the CATIA Object hierarchy.  
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="5"></a>
