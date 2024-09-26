@@ -14,7 +14,7 @@ Currenlty I'm looking for new challenges to embrace my carrer as a full-time pro
 - HTML/CSS/JS
 
 ## Work Examples
-Check out some of my solutions I provided as a programmer in the mechanical engineer field.   
+Check out some of my solutions I provided as a programmer in the mechanical engineering field.   
   
 
 <!--
