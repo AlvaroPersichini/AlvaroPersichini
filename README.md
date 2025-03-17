@@ -3,18 +3,21 @@
 Mechanical Engineer | Programmer Technician
 
 
-## Technologies as a Mechanical Engineer
-- CATIA v5 (Automation with .NET)
-- SolidWorks
-- Automotive Ind. Experience
-
-## Technologies as a Programmer
+## My current stack
 - .NET Framework
 - VB.NET
 - HTML/CSS/JS
 
+
+## Technologies as a Mechanical Engineer
+- CATIA v5 (Automation with .NET)
+- SolidWorks
+- Automotive Ind. Experience
+- 
+
 ## Work Examples
-Check out some of my solutions I provided as a programmer in the mechanical engineering field.   
+I invite you to go and browse through my personal web site:
+https://alvaropersichini.github.io/  
   
 
 <!--
