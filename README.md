@@ -1,19 +1,20 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-4.jpg)
 # About me:  
-Mechanical Engineer | Programmer Technician
+Programmer Technician | Mechanical Engineer
 
 
 ## My current stack
-- .NET Framework
-- VB.NET
+- VB.NET / C / C# / Python
 - HTML/CSS/JS
-
+- .NET Framework 2.0
+- Bash / PowerShell
+  
 
 ## Technologies as a Mechanical Engineer
 - CATIA v5 (Automation with .NET)
 - SolidWorks
 - Automotive Ind. Experience
-- 
+  
 
 ## Work Examples
 I invite you to go and browse through my personal web site:
