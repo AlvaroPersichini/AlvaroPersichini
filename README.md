@@ -19,6 +19,7 @@ https://alvaropersichini.github.io/
 - CATIA v5 (Automation with .NET)
 - SolidWorks
 - Automotive Industry Experience
+ 
 If you are interested in taking a look at my Mechanical Engineer Portfolio   
 go and visit: https://alvaropersichini.github.io/
   
