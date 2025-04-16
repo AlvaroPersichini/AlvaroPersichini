@@ -6,8 +6,8 @@ Programmer Technician | Mechanical Engineer
 ## My current stack
 - VB.NET / C / C# / Python
 - HTML / CSS / JS
-- .NET Framework 2.0 / Flask
-- Git / Git Flow
+- .NET Framework / Flask
+- Git
 
 
 ## Work Examples
