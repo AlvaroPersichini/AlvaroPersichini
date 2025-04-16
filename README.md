@@ -18,7 +18,7 @@ https://alvaropersichini.github.io/
 ## Technologies as a Mechanical Engineer
 - CATIA v5 (Automation with .NET)
 - SolidWorks
-- Automotive Ind. Experience
+- Automotive Industry Experience
 If you are interested in taking a look at my Mechanical Engineer Portfolio   
 go and visit: https://alvaropersichini.github.io/
   
