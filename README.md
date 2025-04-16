@@ -7,23 +7,22 @@ Programmer Technician | Mechanical Engineer
 - VB.NET / C / C# / Python
 - HTML / CSS / JS
 - .NET Framework 2.0 / Flask
-- Git
+- Git / Git Flow
+
+
+## Work Examples
+I invite you to go and browse through my personal web site:
+https://alvaropersichini.github.io/
   
 
 ## Technologies as a Mechanical Engineer
 - CATIA v5 (Automation with .NET)
 - SolidWorks
 - Automotive Ind. Experience
-  
-
-## Work Examples
-I invite you to go and browse through my personal web site:
-https://alvaropersichini.github.io/
-
-
-## As a Mechanical Engineer
 If you are interested in taking a look at my Mechanical Engineer Portfolio   
 go and visit: https://alvaropersichini.github.io/
+  
+
   
 
 <!--
