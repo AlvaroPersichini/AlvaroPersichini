@@ -22,7 +22,7 @@ https://alvaropersichini.github.io/
 
 
 ## As a Mechanical Engineer
-If you are interested in taking a look at my Mechanical engineer background  
+If you are interested in taking a look at my Mechanical Engineer Portfolio   
 go and visit: https://alvaropersichini.github.io/
   
 
