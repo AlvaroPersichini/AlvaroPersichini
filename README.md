@@ -1,6 +1,6 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-4.jpg)
 # About me:  
-Programmer Technician | Mechanical Engineer
+Programmer Technician | Mechanical Engineer  
 .NET Self-developer, experience in technical projects.
 
 ## My current stack
