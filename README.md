@@ -7,6 +7,7 @@ Programmer Technician | Mechanical Engineer
 - VB.NET / C / C# / Python
 - HTML / CSS / JS
 - .NET Framework / Flask
+- SQL
 - Git
 
 
