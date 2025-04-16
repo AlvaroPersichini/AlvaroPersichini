@@ -5,9 +5,9 @@ Programmer Technician | Mechanical Engineer
 
 ## My current stack
 - VB.NET / C / C# / Python
-- HTML/CSS/JS
-- .NET Framework 2.0
-- Bash / PowerShell
+- HTML / CSS / JS
+- .NET Framework 2.0 / Flask
+- Git
   
 
 ## Technologies as a Mechanical Engineer
@@ -18,7 +18,12 @@ Programmer Technician | Mechanical Engineer
 
 ## Work Examples
 I invite you to go and browse through my personal web site:
-https://alvaropersichini.github.io/  
+https://alvaropersichini.github.io/
+
+
+## As a Mechanical Engineer
+If you are interested in taking a look at my Mechanical engineer background  
+go and visit: https://alvaropersichini.github.io/
   
 
 <!--
