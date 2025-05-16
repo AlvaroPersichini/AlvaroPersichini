@@ -1,29 +1,14 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-4.jpg)
 # About me:  
-Programmer Technician | Mechanical Engineer  
-.NET Developer, experience in technical projects.
+Programmer Technician (UTN) 
+Developer, experience in technical projects.
 
 ## My current stack
 - VB.NET / C / C# / Python
 - HTML / CSS / JS
 - .NET Framework / Flask
-- SQL
+- mySQL
 - Git
-
-
-## Work Examples
-I invite you to go and browse through my personal web site:
-https://alvaropersichini.github.io/
-  
-
-## Technologies as a Mechanical Engineer
-- CATIA v5 (Automation with .NET)
-- SolidWorks
-- Automotive Industry Experience
- 
-If you are interested in taking a look at my Mechanical Engineer Portfolio   
-go and visit: https://alvaropersichini.github.io/
-  
 
   
 
