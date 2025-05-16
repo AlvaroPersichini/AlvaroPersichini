@@ -1,4 +1,5 @@
-![Mi imagen de perfil](https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg)
+<img src="https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg" alt="Mi imagen de perfil" width="400"/>
+
 
 # About me:  
 Programmer Technician (UTN)  
