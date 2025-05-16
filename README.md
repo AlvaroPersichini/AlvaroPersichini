@@ -1,6 +1,6 @@
 ![Screenshot 2024-08-03 195632](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/WallPaper-4.jpg)
 # About me:  
-Programmer Technician (UTN) 
+Programmer Technician (UTN)  
 Developer, experience in technical projects.
 
 ## My current stack
