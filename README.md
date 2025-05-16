@@ -1,4 +1,6 @@
-![Screenshot](https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Screenshot%202025-05-15%20223254.png)
+![Screenshot](https://github.com/AlvaroPersichini/AlvaroPersichini/blob/main/Screenshot%202025-05-15%20223254.png?raw=true)
+
+
 
 # About me:  
 Programmer Technician (UTN)  
