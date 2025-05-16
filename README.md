@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Screenshot%202025-05-15%20223254.png)
+
 
 
 
