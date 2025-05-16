@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg" alt="Mi imagen de perfil" width="700"/>
+<img src="https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg" alt="Mi imagen de perfil" width="800"/>
 
 
 # About me:  
