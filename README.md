@@ -1,7 +1,4 @@
-
-
-
-
+![Mi imagen de perfil](https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg)
 
 # About me:  
 Programmer Technician (UTN)  
