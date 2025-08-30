@@ -3,12 +3,12 @@
 
 # About me:  
 Programmer Technician (UTN)  
-Developer, experience in technical projects.
+High technical backgraound
 
 ## My current stack
-- VB.NET / C / C# / Python
+- C / C# / Python / Flask
 - HTML / CSS / JS
-- .NET Framework / Flask
+- .NET Core / VB.NET / NODE.JS 
 - mySQL
 - Git
 
