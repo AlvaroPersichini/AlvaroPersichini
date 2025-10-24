@@ -3,7 +3,7 @@
 
 # About me:  
 Programmer Technician (UTN)  
-High technical backgraound
+High technical background
 
 ## My current stack
 - C / C# / Python / Flask
