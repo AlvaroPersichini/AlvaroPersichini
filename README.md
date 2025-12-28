@@ -1,19 +1,34 @@
 <img src="https://raw.githubusercontent.com/AlvaroPersichini/AlvaroPersichini/main/Imagen-GIT-perfil-2.jpg" alt="Mi imagen de perfil" width="800"/>
 
+### Mechanical Engineer | Software Developer
 
-# About me:  
-Programmer Technician (UTN)  
-High technical background
+Mechanical Engineer with over **13 years of experience** in the automotive and industrial sectors, complemented by a technical degree in Programming (UTN).
 
-## My current stack
-- C / C# / Python / Flask
-- HTML / CSS / JS
-- .NET Core / VB.NET / NODE.JS 
-- mySQL
-- Git
+My focus lies at the intersection of **industrial engineering and software development**, creating solutions that bridge the gap between physical manufacturing processes and digital automation.
 
-  
+### Technical Stack
 
+**Core Languages & Backend**
+* **C# / .NET Core / VB.NET**: Desktop applications and industrial automation.
+* **Python**: Scripting, data processing, and backend logic.
+* **C**: Low-level programming and embedded concepts.
+* **Node.js**: Server-side runtime environments.
+
+**Web Development**
+* **Flask**: Micro-framework for web applications.
+* **HTML5 / CSS3 / JavaScript**: Frontend interfaces and user experience.
+
+**Database & Tools**
+* **MySQL**: Relational database management.
+* **Git**: Version control and collaborative workflow.
+* **Automation**: Scripting for CAD/CAM environments (CATIA).
+
+---
+
+### Professional Focus
+* Industrial Process Automation.
+* Web-based Management Systems.
+* Mechanical Design & Engineering (CAD/CAE).
 <!--
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="Video 1" width="240" height="180" border="5"></a>
